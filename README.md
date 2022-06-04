@@ -1,5 +1,8 @@
 ## Olá! Seja bem-vindo(a) ao meu GitHub! Me chamo Matheus Boffo
 
+![](https://media2.giphy.com/media/01o9WvoW1czSbqnTO9/giphy.gif?cid=ecf05e473k93s4x236vpinhhreiwx7mmoroe2k9sg80ze9fo&rid=giphy.gif&ct=g.gif)
+
+
 📚 Desenvolvedor Java
 
 🔎 Buscando novas oportunidades.
